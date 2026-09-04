@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "problem": "topic",
+        "difficulty": "medium",
+        "topic": "string",
+        "date": "2026-09-04"
+    },
+    {
+        "problem": "data",
+        "difficulty": "easy",
+        "topic": "array",
+        "date": "2026-09-04"
+    },
+    {
+        "problem": "visualisation",
+        "difficulty": "hard",
+        "topic": "DP",
+        "date": "2026-09-04"
+    }
+]
